@@ -14,3 +14,24 @@
 // To declare rules for a specific mode, create a child rule
 // for the .md, .ios, or .wp mode classes. The mode class is
 // automatically applied to the <body> element in the app.
+
+.text-center {
+  text-align: center;
+}
+
+.strikedText {
+  text-decoration: line-through;
+}
+
+.empty-box {
+  color: #C7C7C7;
+  padding-top: 40%;
+}
+
+.empty-box p {
+  font-size: 30px;
+}
+
+.icon-big {
+  font-size: 100px;
+}
